@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "i170005-i170299"
+rootProject.name = "HCI project"
